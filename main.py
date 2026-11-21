@@ -1,7 +1,7 @@
 """Entry point: write the catalogue photograph to /output/entry.png.
 
-UNDO-1 edition: the tabletop undo machine is caught mid-use, its
-rider half old, half young again, a split-second after the UNDO press.
+UNGRIND-3000 edition: the tabletop ungrinder is caught mid-use,
+ground coffee going in the hopper, whole beans coming out the chute.
 The photograph ships in this repository as asset.jpg, beside this file.
 The program simply copies its bytes to the output path.
 """
