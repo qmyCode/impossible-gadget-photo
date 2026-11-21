@@ -1,5 +1,7 @@
 """Entry point: write the catalogue photograph to /output/entry.png.
 
+Mid-action finish-line edition: the SNAILPOWER treadmill is caught
+mid-use, its rider a split-second from breaking the finish tape.
 The photograph ships in this repository as asset.jpg, beside this file.
 The program simply copies its bytes to the output path.
 """
